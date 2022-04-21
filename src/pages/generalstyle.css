@@ -1,0 +1,24 @@
+.middle {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.centerimg {
+    margin: 0 auto;
+    display: block;
+}
+
+.middleabout {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.middleblognav {
+    position:absolute; 
+    left: 250px;
+}
+
+.middleprojectnav {
+    position:absolute; 
+    left: 250px;
+}
