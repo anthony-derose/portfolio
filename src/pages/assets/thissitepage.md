@@ -1,4 +1,4 @@
-### this site. 
+### this site.
 
 The codebase for this website can be found here: [https://github.com/anthony-derose/portfolio](https://github.com/anthony-derose/portfolio). 
 
