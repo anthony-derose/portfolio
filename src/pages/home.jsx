@@ -17,6 +17,25 @@ const Home = () => {
         <div className="middle">
           < ReactMarkdown children={homeText} rehypePlugins={[rehypeRaw]}
           />
+          <img src="DSCF0118.JPG" width="300"/>
+          <img src="DSCF2071.JPG" width="300"/>
+          <img src="DSCF2067.JPG" width="300"/>
+          <img src="DSCF2098.JPG" width="300"/>
+          <img src="DSCF2152.JPG" width="300"/>
+          <img src="DSCF2213.JPG" width="300"/>
+          <img src="DSCF2286.JPG" width="300"/>
+          <img src="DSCF2360.JPG" width="300"/>
+          <img src="DSCF2375.JPG" width="300"/>
+          <img src="DSCF2387.JPG" width="300"/>
+          <img src="DSCF2330.JPG" width="300"/>
+          <img src="DSCF2389.JPG" width="300"/>
+          <img src="DSCF2486.JPG" width="300"/>
+          <img src="DSCF2482.JPG" width="300"/>
+          <img src="DSCF2580.JPG" width="300"/>
+          <img src="DSCF2558.JPG" width="300"/>
+          <img src="DSCF2374.JPG" width="300"/>
+          <img src="DSCF2408.JPG" width="300"/>
+
         </div>
         
         );

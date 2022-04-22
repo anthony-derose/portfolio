@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react'
 import ReactMarkdown from 'react-markdown'
 import './generalstyle.css'
 import AboutPage from './assets/aboutpage.md'; 
+import rehypeRaw from 'rehype-raw'
 
 const About = () => {
     const [aboutText, setaboutText] = useState('')
@@ -13,7 +14,8 @@ const About = () => {
 	})
     return(
 		<div className="middleabout">
-			<ReactMarkdown children={aboutText} />
+			<ReactMarkdown children={aboutText} rehypePlugins={[rehypeRaw]} 
+			/>
 		</div>
     );
 }; 

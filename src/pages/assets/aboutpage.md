@@ -18,4 +18,4 @@ anthony.derose@rutgers.edu |
 github [@anthony-derose](https://github.com/anthony-derose) |
 linkedin [@anthony-de-rose](https://www.linkedin.com/in/anthony-de-rose/)
 
-            
+<img classname="centerimg" src="selfie.jpg" width="200"/>
