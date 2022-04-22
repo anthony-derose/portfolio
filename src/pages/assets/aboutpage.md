@@ -2,7 +2,7 @@
 
 I'd like to think of myself as a creative person. Coding is among many tools that I like to use to create new things.
 Lately, I've been specificly interested in different areas such as audio, graphics, and web development. Learning how to 
-make VST plugins with the JUCE framework with C#, making projects in Unity and reading up on ReactJS to make this website 
+make VST plugins with the JUCE framework with C++, making projects in Unity and reading up on ReactJS to make this website 
 have been what has consumed my freetime. 
 
 I believe in making things that are real and tangible. I like being able to see the impacts that my code has on the world.
