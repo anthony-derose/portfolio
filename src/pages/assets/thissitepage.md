@@ -1,6 +1,6 @@
 ### this site. 
 
-The codebase for this website can be found here: [https://github.com/anthony-derose/my-portfolio-website](https://github.com/anthony-derose/my-portfolio-website). 
+The codebase for this website can be found here: [https://github.com/anthony-derose/portfolio](https://github.com/anthony-derose/portfolio). 
 
 This website was made using a mix of technologies and frameworks such as ReactJS, CSS, HTML, Markdown and Bootstrap. 
 
