@@ -1,6 +1,5 @@
 {
   "name": "react-website",
-  "homepage" : "https://{anthony-derose}.github.io/{my-portfolio-website}",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
