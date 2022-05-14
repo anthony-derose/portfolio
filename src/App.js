@@ -2,9 +2,13 @@ import ReactDOM from "react-dom";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/layout";
 import Home from "./pages/home";
-import About from "./pages/about";
+import About from "./pages/about"
+;
 import Blog from "./pages/blog";
 import FirstBlog from "./pages/firstblog"
+import Graduation from "./pages/graduation"
+
+
 import Projects from "./pages/projects";
 import ThisSite from "./pages/this-site";
 import Maze from "./pages/procedural-maze-game";
@@ -23,6 +27,7 @@ export default function App() {
 
           <Route path="/blog" element={<Blog />} />
           <Route path='/blog/myfirstblog' element={<FirstBlog />} />
+          <Route path='/blog/graduation' element={<Graduation />} />
 
           <Route path="/projects" element={<Projects />} />
           <Route path="/projects/procedural-maze-game" element={<Maze />} />
