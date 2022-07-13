@@ -1,15 +1,10 @@
 ### me 
 
-I'd like to think of myself as a creative person. Coding is among many tools that I like to use to create new things.
-Lately, I've been specificly interested in different areas such as audio, graphics, and web development. Learning how to 
-make VST plugins with the JUCE framework with C++, making projects in Unity and reading up on ReactJS to make this website 
-have been what has consumed my freetime. 
+I'd like to think of myself as both a creative person and a logical person. Coding is among many tools that I like to use to create new things and compartmentalize the world. I'm interest in theoretical aspects such as data structures and algorithms and how I can use them to create things in the world. Behond that, lately I've been specificly interested in different areas such as audio, graphics, game development and web development. I want to find my niche inside of computer science and software engineering. 
 
 I believe in making things that are real and tangible. I like being able to see the impacts that my code has on the world.
 Whether it is making an audio plugin that makes synth noises or a metronome web app to help me keep time while playing guitar, 
 I like seeing a physical representation for the code I write and enjoy being able to personally use my work. 
-
-Upon my graduation, I'm hoping to join an engineering team that aligns with my values and interests and will push and shape me into a better software engineer. 
 
 ### contact
 

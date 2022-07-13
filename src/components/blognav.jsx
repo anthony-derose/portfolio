@@ -8,6 +8,7 @@ function BlogNav() {
         <Navbar>
             <Container>
                 <Nav defaultActiveKey="" className="flex-column" >
+                  <Nav.Link href="/blog/graduation">my college graduation and what I've been up to.  </Nav.Link>
                   <Nav.Link href="/blog/myfirstblog">my first blog. </Nav.Link>
                 </Nav>
             </Container>
